@@ -3,10 +3,10 @@
 
 ## **INDICE**
 
-* [1. Intro](https://github.com/justtqueen/clonaciongoogle/edit/main/README.md#1-intro)
-* [2. Que construi](https://github.com/justtqueen/clonaciongoogle/edit/main/README.md#2-qu%C3%A9-constru%C3%AD)
-* [Objetivo del proyecto](https://github.com/justtqueen/clonaciongoogle/edit/main/README.md#3-objetivo-del-proyecto)
-* [Link al Demo](https://github.com/justtqueen/clonaciongoogle/edit/main/README.md#4-link-al-demo)
+* [1. Intro](https://github.com/justtqueen/clonaciongoogle/blob/main/README.md#1-intro)
+* [2. Que construi](https://github.com/justtqueen/clonaciongoogle/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
+* [Objetivo del proyecto](https://github.com/justtqueen/clonaciongoogle/blob/main/README.md#3-objetivo-del-proyecto)
+* [Link al Demo](https://github.com/justtqueen/clonaciongoogle/blob/main/README.md#4-link-al-demo)
 
 ****
 
